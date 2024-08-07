@@ -1,13 +1,18 @@
 # testforautouploadlogs
 
+## Thing to be decided( waiting for Junjie's decision)
+
+more detailed context message title and body.
+
 ## update log
 
-Aug.7 Hello world! 
+Aug.7 9:00 Hello world! 
 
-Aug.8 a+b problem
+Aug.7 9:10 a+b problem
+
+Aug.7 9:20 done
 
 (hahahahah)
-
 
 ## usage
 
