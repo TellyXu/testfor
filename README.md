@@ -12,6 +12,8 @@ Aug.7 9:10 a+b problem
 
 Aug.7 9:20 done
 
+Aug.7 11:34 added trackback and formatted_cell_code
+
 (hahahahah)
 
 ## usage
